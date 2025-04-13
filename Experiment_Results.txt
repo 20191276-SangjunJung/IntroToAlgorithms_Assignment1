@@ -1,0 +1,1141 @@
+Results
+
+====== Insertion Sort ======
+
+Lengh of the array 1: 411837
+totalTime: 2852974
+Lengh of the array 2: 826379
+totalTime: 3242738
+Lengh of the array 3: 210454
+totalTime: 3309390
+Lengh of the array 4: 592182
+totalTime: 3530929
+Lengh of the array 5: 458926
+totalTime: 3813343
+Lengh of the array 6: 189222
+totalTime: 3903072
+Lengh of the array 7: 864793
+totalTime: 4169666
+Lengh of the array 8: 749698
+totalTime: 4417682
+Lengh of the array 9: 850788
+totalTime: 4672280
+Lengh of the array 10: 778117
+totalTime: 4908456
+Execution Time for Sorted Array: 490845 ns
+Memory Used for Sorted Array: 0 bytes
+
+Lengh of the array 1: 192511
+totalTime: 7524007533
+Lengh of the array 2: 579407
+totalTime: 75887145803
+Lengh of the array 3: 165262
+totalTime: 78973332897
+Lengh of the array 4: 381019
+totalTime: 95307537464
+Lengh of the array 5: 204156
+totalTime: 100020466696
+Lengh of the array 6: 569589
+totalTime: 136769891316
+Lengh of the array 7: 303376
+totalTime: 147135434818
+Lengh of the array 8: 633679
+totalTime: 192663855291
+Lengh of the array 9: 365189
+totalTime: 207858471140
+Lengh of the array 10: 868604
+totalTime: 293407297875
+Execution Time for Random Array: 29340729787 ns
+Memory Used for Random Array: 0 bytes
+
+Lengh of the array 1: 941463
+totalTime: 201732224498
+Lengh of the array 2: 810719
+totalTime: 351243957030
+Lengh of the array 3: 226222
+totalTime: 363108712917
+Lengh of the array 4: 49035
+totalTime: 363652673966
+Lengh of the array 5: 909302
+totalTime: 551319337022
+Lengh of the array 6: 48106
+totalTime: 551841976073
+Lengh of the array 7: 488585
+totalTime: 606233240298
+Lengh of the array 8: 921335
+totalTime: 799370017760
+Lengh of the array 9: 895523
+totalTime: 981786582933
+Lengh of the array 10: 543796
+totalTime: 1049044322069
+Execution Time for Reversed Array: 104904432206 ns
+Memory Used for Reversed Array: 0 bytes
+
+Lengh of the array 1: 2713
+totalTime: 737387
+Lengh of the array 2: 968340
+totalTime: 79933360774
+Lengh of the array 3: 178012
+totalTime: 82595013204
+Lengh of the array 4: 402085
+totalTime: 96365078281
+Lengh of the array 5: 307879
+totalTime: 104382680774
+Lengh of the array 6: 930186
+totalTime: 178389324105
+Lengh of the array 7: 181046
+totalTime: 181172925223
+Lengh of the array 8: 36101
+totalTime: 181281743389
+Lengh of the array 9: 886349
+totalTime: 248186420219
+Lengh of the array 10: 142873
+totalTime: 249932639020
+Execution Time for Partially Sorted Array: 24993263902 ns
+Memory Used for Partially Sorted Array: 0 bytes
+
+
+
+====== Selection Sort ======
+
+Lengh of the array 1: 773014
+totalTime: 44061054597
+Lengh of the array 2: 186699
+totalTime: 46620215869
+Lengh of the array 3: 17030
+totalTime: 46640175572
+Lengh of the array 4: 749853
+totalTime: 85279492235
+Lengh of the array 5: 470450
+totalTime: 100283241632
+Lengh of the array 6: 198436
+totalTime: 102900667318
+Lengh of the array 7: 480247
+totalTime: 118669288752
+Lengh of the array 8: 482307
+totalTime: 134519598266
+Lengh of the array 9: 607486
+totalTime: 160169841946
+Lengh of the array 10: 971991
+totalTime: 225487452897
+Execution Time for Sorted Array: 22548745289 ns
+Memory Used for Sorted Array: 0 bytes
+
+Lengh of the array 1: 281872
+totalTime: 28048745958
+Lengh of the array 2: 377341
+totalTime: 52233257234
+Lengh of the array 3: 549776
+totalTime: 104002998317
+Lengh of the array 4: 222515
+totalTime: 112307897789
+Lengh of the array 5: 127094
+totalTime: 115032112441
+Lengh of the array 6: 468105
+totalTime: 152400103978
+Lengh of the array 7: 709204
+totalTime: 239228367711
+Lengh of the array 8: 987480
+totalTime: 408095026602
+Lengh of the array 9: 161616
+totalTime: 412438539588
+Lengh of the array 10: 434594
+totalTime: 444743238399
+Execution Time for Random Array: 44474323839 ns
+Memory Used for Random Array: 0 bytes
+
+Lengh of the array 1: 332430
+totalTime: 51920846977
+Lengh of the array 2: 649472
+totalTime: 324109543707
+Lengh of the array 3: 478285
+totalTime: 451752950349
+Lengh of the array 4: 537437
+totalTime: 622760559653
+Lengh of the array 5: 893429
+totalTime: 1228477414525
+Lengh of the array 6: 326794
+totalTime: 1278546107486
+Lengh of the array 7: 464359
+totalTime: 1397347440571
+Lengh of the array 8: 978680
+totalTime: 2152951569220
+Lengh of the array 9: 566538
+totalTime: 2347815851209
+Lengh of the array 10: 17999
+totalTime: 2347893114374
+Execution Time for Reversed Array: 234789311437 ns
+Memory Used for Reversed Array: 0 bytes
+
+Lengh of the array 1: 107692
+totalTime: 1981912178
+Lengh of the array 2: 813438
+totalTime: 116247199548
+Lengh of the array 3: 174672
+totalTime: 121330391941
+Lengh of the array 4: 616557
+totalTime: 186266504474
+Lengh of the array 5: 578190
+totalTime: 243262955303
+Lengh of the array 6: 992663
+totalTime: 413627964735
+Lengh of the array 7: 673646
+totalTime: 491354845079
+Lengh of the array 8: 712886
+totalTime: 578599322962
+Lengh of the array 9: 575417
+totalTime: 635203119789
+Lengh of the array 10: 487908
+totalTime: 675764733363
+Execution Time for Partially Sorted Array: 67576473336 ns
+Memory Used for Partially Sorted Array: 0 bytes
+
+
+
+====== Bubble Sort ======
+
+Lengh of the array 1: 729519
+totalTime: 2870782
+Lengh of the array 2: 751924
+totalTime: 3516945
+Lengh of the array 3: 72970
+totalTime: 3545325
+Lengh of the array 4: 48393
+totalTime: 3562899
+Lengh of the array 5: 73053
+totalTime: 3590230
+Execution Time for Sorted Array: 718046 ns
+Memory Used for Sorted Array: 0 bytes
+
+Lengh of the array 1: 23807
+totalTime: 574808662
+Lengh of the array 2: 299082
+totalTime: 103030530362
+Lengh of the array 3: 672422
+totalTime: 624680927101
+Lengh of the array 4: 624357
+totalTime: 1072955095255
+Lengh of the array 5: 395120
+totalTime: 1251267476277
+
+Execution Time for Random Array: 250253495255 ns
+Memory Used for Random Array: 0 bytes
+
+Lengh of the array 1: 573101
+totalTime: 197439600812
+Lengh of the array 2: 859018
+totalTime: 643691076849
+Lengh of the array 3: 864855
+totalTime: 1093492269981
+Lengh of the array 4: 265167
+totalTime: 1135582119808
+Lengh of the array 5: 502702
+totalTime: 1286513542582
+Execution Time for Reversed Array: 257302708516 ns
+Memory Used for Reversed Array: 0 bytes
+
+Lengh of the array 1: 373494
+totalTime: 122166869986
+Lengh of the array 2: 281088
+totalTime: 189769942040
+Lengh of the array 3: 65288
+totalTime: 193238698096
+Lengh of the array 4: 750806
+totalTime: 684700047422
+Lengh of the array 5: 498093
+totalTime: 902126663271
+Execution Time for Partially Sorted Array: 180425332654 ns
+Memory Used for Partially Sorted Array: 0 bytes
+
+
+
+====== Merge Sort ======
+
+Lengh of the array 1: 935688
+totalTime: 85716761
+Lengh of the array 2: 631286
+totalTime: 111787091
+Lengh of the array 3: 660164
+totalTime: 141740811
+Lengh of the array 4: 921125
+totalTime: 177343754
+Lengh of the array 5: 75918
+totalTime: 180603445
+Lengh of the array 6: 965279
+totalTime: 225418197
+Lengh of the array 7: 421490
+totalTime: 243614585
+Lengh of the array 8: 52971
+totalTime: 244942101
+Lengh of the array 9: 648324
+totalTime: 276138717
+Lengh of the array 10: 102790
+totalTime: 282147474
+Average length for Sorted Array: 541503
+Execution Time for Sorted Array: 28214747 ns
+Memory Used for Sorted Array: 20328334 bytes
+
+Lengh of the array 1: 762409
+totalTime: 117977958
+Lengh of the array 2: 797427
+totalTime: 212454208
+Lengh of the array 3: 695176
+totalTime: 291849395
+Lengh of the array 4: 573222
+totalTime: 356509494
+Lengh of the array 5: 222258
+totalTime: 381952352
+Lengh of the array 6: 32727
+totalTime: 384857603
+Lengh of the array 7: 144453
+totalTime: 400199991
+Lengh of the array 8: 577684
+totalTime: 466853694
+Lengh of the array 9: 389309
+totalTime: 510903437
+Lengh of the array 10: 265415
+totalTime: 540754724
+Average length for Random Array: 446008
+Execution Time for Random Array: 54075472 ns
+Memory Used for Random Array: 18243200 bytes
+
+Lengh of the array 1: 913953
+totalTime: 51155366
+Lengh of the array 2: 641729
+totalTime: 82319126
+Lengh of the array 3: 63160
+totalTime: 84317745
+Lengh of the array 4: 149154
+totalTime: 91896239
+Lengh of the array 5: 775176
+totalTime: 129334872
+Lengh of the array 6: 231542
+totalTime: 143161317
+Lengh of the array 7: 755814
+totalTime: 178539308
+Lengh of the array 8: 678206
+totalTime: 213632580
+Lengh of the array 9: 591519
+totalTime: 242019572
+Lengh of the array 10: 711050
+totalTime: 275080399
+Average length for Reversed Array: 551130
+Execution Time for Reversed Array: 27508039 ns
+Memory Used for Reversed Array: 26680868 bytes
+
+Lengh of the array 1: 811017
+totalTime: 71336662
+Lengh of the array 2: 810003
+totalTime: 136723206
+Lengh of the array 3: 354330
+totalTime: 166449234
+Lengh of the array 4: 262196
+totalTime: 190459402
+Lengh of the array 5: 481827
+totalTime: 232631460
+Lengh of the array 6: 574773
+totalTime: 278334214
+Lengh of the array 7: 137204
+totalTime: 290673427
+Lengh of the array 8: 456532
+totalTime: 330034561
+Lengh of the array 9: 613696
+totalTime: 379024198
+Lengh of the array 10: 173738
+totalTime: 394284477
+Average length for Partially Sorted Array: 467531
+Execution Time for Partially Sorted Array: 39428447 ns
+Memory Used for Partially Sorted Array: 19109100 bytes
+
+
+
+====== Heap Sort ======
+
+Lengh of the array 1: 359813
+totalTime: 10019426
+Lengh of the array 2: 744519
+totalTime: 15125815
+Lengh of the array 3: 482644
+totalTime: 20472875
+Lengh of the array 4: 900303
+totalTime: 25858576
+Lengh of the array 5: 654309
+totalTime: 32701470
+Lengh of the array 6: 891997
+totalTime: 37648976
+Lengh of the array 7: 16686
+totalTime: 37922169
+Lengh of the array 8: 603773
+totalTime: 41381789
+Lengh of the array 9: 796079
+totalTime: 45682691
+Lengh of the array 10: 834453
+totalTime: 50296716
+Average length for Sorted Array: 628457
+Execution Time for Sorted Array: 5029671 ns
+Memory Used for Sorted Array: 0 bytes
+
+Lengh of the array 1: 790427
+totalTime: 8832127
+Lengh of the array 2: 337322
+totalTime: 12273402
+Lengh of the array 3: 202497
+totalTime: 14906994
+Lengh of the array 4: 278068
+totalTime: 17914666
+Lengh of the array 5: 869199
+totalTime: 26278770
+Lengh of the array 6: 911555
+totalTime: 35140737
+Lengh of the array 7: 883427
+totalTime: 43741040
+Lengh of the array 8: 606783
+totalTime: 49993237
+Lengh of the array 9: 3817
+totalTime: 50089625
+Lengh of the array 10: 391770
+totalTime: 54376100
+Average length for Random Array: 527486
+Execution Time for Random Array: 5437610 ns
+Memory Used for Random Array: 0 bytes
+
+Lengh of the array 1: 53561
+totalTime: 2206660
+Lengh of the array 2: 832765
+totalTime: 27294452
+Lengh of the array 3: 176820
+totalTime: 32178589
+Lengh of the array 4: 403215
+totalTime: 44764560
+Lengh of the array 5: 799862
+totalTime: 64934133
+Lengh of the array 6: 508131
+totalTime: 81787644
+Lengh of the array 7: 540606
+totalTime: 90029172
+Lengh of the array 8: 23526
+totalTime: 90630219
+Lengh of the array 9: 548026
+totalTime: 103982236
+Lengh of the array 10: 341238
+totalTime: 111800158
+Average length for Reversed Array: 422775
+Execution Time for Reversed Array: 11180015 ns
+Memory Used for Reversed Array: 0 bytes
+
+Lengh of the array 1: 279545
+totalTime: 2756125
+Lengh of the array 2: 480589
+totalTime: 7331203
+Lengh of the array 3: 950178
+totalTime: 15386689
+Lengh of the array 4: 449385
+totalTime: 19867663
+Lengh of the array 5: 962260
+totalTime: 28101615
+Lengh of the array 6: 679258
+totalTime: 34144095
+Lengh of the array 7: 104433
+totalTime: 35287782
+Lengh of the array 8: 335995
+totalTime: 38503787
+Lengh of the array 9: 301939
+totalTime: 41693162
+Lengh of the array 10: 980971
+totalTime: 50117413
+Average length for Partially Sorted Array: 552455
+Execution Time for Partially Sorted Array: 5011741 ns
+Memory Used for Partially Sorted Array: 0 bytes
+
+
+
+
+====== Quick Sort ======
+
+Lengh of the array 1: 8765
+totalTime: 13297128
+Lengh of the array 2: 7115
+totalTime: 17689499
+Lengh of the array 3: 7904
+totalTime: 22579227
+Lengh of the array 4: 5952
+totalTime: 25577120
+Lengh of the array 5: 2886
+totalTime: 26245824
+Lengh of the array 6: 9714
+totalTime: 34360405
+Lengh of the array 7: 6111
+totalTime: 37448057
+Lengh of the array 8: 7615
+totalTime: 42247319
+Lengh of the array 9: 5685
+totalTime: 45391784
+Lengh of the array 10: 2652
+totalTime: 45948050
+Average length for Sorted Array: 6439
+Execution Time for Sorted Array: 4594805 ns
+Memory Used for Sorted Array: 4196 bytes
+
+Lengh of the array 1: 5531
+totalTime: 1027699
+Lengh of the array 2: 8859
+totalTime: 1733066
+Lengh of the array 3: 8601
+totalTime: 2193358
+Lengh of the array 4: 7368
+totalTime: 2577249
+Lengh of the array 5: 7322
+totalTime: 2982729
+Lengh of the array 6: 7616
+totalTime: 3403996
+Lengh of the array 7: 6771
+totalTime: 3838412
+Lengh of the array 8: 3806
+totalTime: 4077221
+Lengh of the array 9: 8701
+totalTime: 4601344
+Lengh of the array 10: 8665
+totalTime: 5108694
+Average length for Random Array: 7324
+Execution Time for Random Array: 510869 ns
+Memory Used for Random Array: 0 bytes
+
+Lengh of the array 1: 1084
+totalTime: 589380
+Lengh of the array 2: 5173
+totalTime: 7037354
+Lengh of the array 3: 2314
+totalTime: 8494291
+Lengh of the array 4: 9984
+totalTime: 56957745
+Lengh of the array 5: 7046
+totalTime: 84613239
+Lengh of the array 6: 5532
+totalTime: 91953178
+Lengh of the array 7: 9702
+totalTime: 113863585
+Lengh of the array 8: 8398
+totalTime: 140217734
+Lengh of the array 9: 8358
+totalTime: 156377490
+Lengh of the array 10: 3875
+totalTime: 159906105
+Average length for Reversed Array: 6146
+Execution Time for Reversed Array: 15990610 ns
+Memory Used for Reversed Array: 0 bytes
+
+Lengh of the array 1: 5200
+totalTime: 241234
+Lengh of the array 2: 9382
+totalTime: 749582
+Lengh of the array 3: 9397
+totalTime: 1145555
+Lengh of the array 4: 4223
+totalTime: 1311269
+Lengh of the array 5: 6841
+totalTime: 1584101
+Lengh of the array 6: 3211
+totalTime: 1724075
+Lengh of the array 7: 7122
+totalTime: 2160974
+Lengh of the array 8: 2042
+totalTime: 2243241
+Lengh of the array 9: 7842
+totalTime: 2619432
+Lengh of the array 10: 3919
+totalTime: 2791336
+Average length for Partially Sorted Array: 5917
+Execution Time for Partially Sorted Array: 279133 ns
+Memory Used for Partially Sorted Array: 0 bytes
+
+
+
+
+====== Library Sort ======
+
+Lengh of the array 1: 711660
+totalTime: 22701113840
+Lengh of the array 2: 268975
+totalTime: 26839368435
+Lengh of the array 3: 350503
+totalTime: 32919178039
+Lengh of the array 4: 148761
+totalTime: 34167537966
+Lengh of the array 5: 797239
+totalTime: 64208389080
+Lengh of the array 6: 259427
+totalTime: 68075701845
+Lengh of the array 7: 198382
+totalTime: 69869185093
+Lengh of the array 8: 553232
+totalTime: 86864406019
+Lengh of the array 9: 405912
+totalTime: 94482110776
+Lengh of the array 10: 390174
+totalTime: 101493590837
+Average length for Sorted Array: 408426
+Execution Time for Sorted Array: 10149359083 ns
+Memory Used for Sorted Array: 16230148 bytes
+
+Lengh of the array 1: 493859
+totalTime: 1062839355
+Lengh of the array 2: 120215
+totalTime: 1147880794
+Lengh of the array 3: 552893
+totalTime: 2443962677
+Lengh of the array 4: 412404
+totalTime: 3248728152
+Lengh of the array 5: 137226
+totalTime: 3370808642
+Lengh of the array 6: 175016
+totalTime: 3530030605
+Lengh of the array 7: 723657
+totalTime: 5988988965
+Lengh of the array 8: 523889
+totalTime: 7042370410
+Lengh of the array 9: 775585
+totalTime: 9600877834
+Lengh of the array 10: 417340
+totalTime: 10367842701
+Average length for Random Array: 433208
+Execution Time for Random Array: 1036784270 ns
+Memory Used for Random Array: 15355259 bytes
+
+Lengh of the array 1: 201079
+totalTime: 8940026123
+Lengh of the array 2: 427407
+totalTime: 51258008463
+Lengh of the array 3: 83843
+totalTime: 52728814099
+Lengh of the array 4: 847670
+totalTime: 217202436611
+Lengh of the array 5: 884840
+totalTime: 402974093940
+Lengh of the array 6: 785445
+totalTime: 536408350819
+Lengh of the array 7: 238958
+totalTime: 550679784751
+Lengh of the array 8: 650873
+totalTime: 640131442434
+Lengh of the array 9: 552616
+totalTime: 717160682965
+Lengh of the array 10: 321418
+totalTime: 738848546569
+Average length for Reversed Array: 499414
+Execution Time for Reversed Array: 73884854656 ns
+Memory Used for Reversed Array: 18957679 bytes
+
+Lengh of the array 1: 743905
+totalTime: 11350451627
+Lengh of the array 2: 853847
+totalTime: 28275954869
+Lengh of the array 3: 291353
+totalTime: 29758533479
+Lengh of the array 4: 549628
+totalTime: 34726001522
+Lengh of the array 5: 309969
+totalTime: 36521422889
+Lengh of the array 6: 472820
+totalTime: 41325655369
+Lengh of the array 7: 374316
+totalTime: 44236103249
+Lengh of the array 8: 988937
+totalTime: 63350939010
+Lengh of the array 9: 707277
+totalTime: 73099849330
+Lengh of the array 10: 129173
+totalTime: 73393341649
+Average length for Partially Sorted Array: 542122
+Execution Time for Partially Sorted Array: 7339334164 ns
+Memory Used for Partially Sorted Array: 19406161 bytes
+
+
+
+
+====== Tim Sort ======
+
+Length of the array 1: 944484
+totalTime: 72310116
+Length of the array 2: 809412
+totalTime: 92619895
+Length of the array 3: 661073
+totalTime: 106958872
+Length of the array 4: 908112
+totalTime: 126470384
+Length of the array 5: 271971
+totalTime: 131897098
+Length of the array 6: 488203
+totalTime: 140537064
+Length of the array 7: 129106
+totalTime: 142008877
+Length of the array 8: 136266
+totalTime: 143593955
+Length of the array 9: 596350
+totalTime: 156186622
+Length of the array 10: 35557
+totalTime: 156530653
+Average length for Sorted Array: 498053
+Execution Time for Sorted Array: 15653065 ns
+Memory Used for Sorted Array: 10218951 bytes
+
+Length of the array 1: 83898
+totalTime: 11529153
+Length of the array 2: 283696
+totalTime: 59597353
+Length of the array 3: 596752
+totalTime: 118716778
+Length of the array 4: 380685
+totalTime: 154957499
+Length of the array 5: 186445
+totalTime: 171616512
+Length of the array 6: 20999
+totalTime: 173215980
+Length of the array 7: 96208
+totalTime: 180195584
+Length of the array 8: 526094
+totalTime: 236529845
+Length of the array 9: 722966
+totalTime: 308280632
+Length of the array 10: 141808
+totalTime: 319077146
+Average length for Random Array: 303955
+Execution Time for Random Array: 31907714 ns
+Memory Used for Random Array: 6323636 bytes
+
+Length of the array 1: 682687
+totalTime: 41325010
+Length of the array 2: 517851
+totalTime: 80384864
+Length of the array 3: 490352
+totalTime: 112107284
+Length of the array 4: 371546
+totalTime: 129959013
+Length of the array 5: 907454
+totalTime: 194227279
+Length of the array 6: 153292
+totalTime: 199618780
+Length of the array 7: 180629
+totalTime: 208427228
+Length of the array 8: 841922
+totalTime: 268119049
+Length of the array 9: 284523
+totalTime: 280932757
+Length of the array 10: 710005
+totalTime: 315880316
+Average length for Reversed Array: 514026
+Execution Time for Reversed Array: 31588031 ns
+Memory Used for Reversed Array: 13457694 bytes
+
+Length of the array 1: 255855
+totalTime: 14577278
+Length of the array 2: 92002
+totalTime: 18884421
+Length of the array 3: 298135
+totalTime: 39121672
+Length of the array 4: 609388
+totalTime: 83555924
+Length of the array 5: 480363
+totalTime: 112986294
+Length of the array 6: 726526
+totalTime: 161395628
+Length of the array 7: 550825
+totalTime: 198863937
+Length of the array 8: 24564
+totalTime: 199842445
+Length of the array 9: 858628
+totalTime: 262731464
+Length of the array 10: 821840
+totalTime: 321449353
+Average length for Partially Sorted Array: 471812
+Execution Time for Partially Sorted Array: 32144935 ns
+Memory Used for Partially Sorted Array: 12120207 bytes
+
+
+
+====== Cocktail-Shaker Sort ======
+
+Length of the array 1: 305882
+totalTime: 2479721
+Length of the array 2: 550643
+totalTime: 2780334
+Length of the array 3: 379796
+totalTime: 2886259
+Length of the array 4: 595549
+totalTime: 3063537
+Length of the array 5: 876339
+totalTime: 3330742
+Length of the array 6: 359049
+totalTime: 3443696
+Length of the array 7: 874497
+totalTime: 3719721
+Length of the array 8: 413341
+totalTime: 3841386
+Length of the array 9: 75238
+totalTime: 3877764
+Length of the array 10: 503676
+totalTime: 4057744
+Average length for Sorted Array: 493401
+Execution Time for Sorted Array: 405774 ns
+Memory Used for Sorted Array: 0 bytes
+
+Length of the array 1: 71679
+totalTime: 747362
+Length of the array 2: 123594
+totalTime: 1374624
+Length of the array 3: 884612
+totalTime: 3823663
+Length of the array 4: 974337
+totalTime: 6029531
+Length of the array 5: 790897
+totalTime: 8105637
+Length of the array 6: 725157
+totalTime: 9732334
+Length of the array 7: 817673
+totalTime: 11618966
+Length of the array 8: 573281
+totalTime: 12940681
+Length of the array 9: 219468
+totalTime: 13430201
+Length of the array 10: 490098
+totalTime: 14480091
+Average length for Random Array: 567079
+Execution Time for Random Array: 1448009 ns
+Memory Used for Random Array: 0 bytes
+
+Length of the array 1: 469861
+totalTime: 1142868
+Length of the array 2: 93048
+totalTime: 1391032
+Length of the array 3: 410065
+totalTime: 2268665
+Length of the array 4: 353346
+totalTime: 3092181
+Length of the array 5: 780054
+totalTime: 4980085
+Length of the array 6: 908562
+totalTime: 7012229
+Length of the array 7: 697285
+totalTime: 8532681
+Length of the array 8: 539873
+totalTime: 9697064
+Length of the array 9: 620524
+totalTime: 11027022
+Length of the array 10: 847278
+totalTime: 12867426
+Average length for Reversed Array: 571989
+Execution Time for Reversed Array: 1286742 ns
+Memory Used for Reversed Array: 0 bytes
+
+Length of the array 1: 276250
+totalTime: 517185
+Length of the array 2: 116157
+totalTime: 738925
+Length of the array 3: 617773
+totalTime: 1891550
+Length of the array 4: 648484
+totalTime: 3055125
+Length of the array 5: 100805
+totalTime: 3237683
+Length of the array 6: 425734
+totalTime: 3983876
+Length of the array 7: 892457
+totalTime: 5671385
+Length of the array 8: 570541
+totalTime: 6724640
+Length of the array 9: 955056
+totalTime: 8442688
+Length of the array 10: 218339
+totalTime: 8951016
+Average length for Partially Sorted Array: 482159
+Execution Time for Partially Sorted Array: 895101 ns
+Memory Used for Partially Sorted Array: 0 bytes
+
+
+
+====== Comb Sort ======
+
+Length of the array 1: 283445
+totalTime: 8538207
+Length of the array 2: 121927
+totalTime: 9474908
+Length of the array 3: 753662
+totalTime: 15061351
+Length of the array 4: 911927
+totalTime: 21174305
+Length of the array 5: 265836
+totalTime: 22617318
+Length of the array 6: 180904
+totalTime: 23695968
+Length of the array 7: 390396
+totalTime: 26274959
+Length of the array 8: 355245
+totalTime: 28544846
+Length of the array 9: 393704
+totalTime: 31158591
+Length of the array 10: 223239
+totalTime: 32360887
+Average length for Sorted Array: 388028
+Execution Time for Sorted Array: 3236088 ns
+Memory Used for Sorted Array: 0 bytes
+
+Length of the array 1: 763355
+totalTime: 1032590976877
+Length of the array 2: 676656
+totalTime: 1512876100600
+Length of the array 3: 511208
+totalTime: 1781589669398
+Length of the array 4: 67026
+totalTime: 1785834897238
+Length of the array 5: 757463
+totalTime: 2376095047521
+Length of the array 6: 46571
+totalTime: 2378098799302
+Length of the array 7: 767307
+totalTime: 2986191312092
+Length of the array 8: 508171
+totalTime: 3244026237802
+Length of the array 9: 204865
+totalTime: 3291188416176
+Length of the array 10: 216527
+totalTime: 3340156827260
+Average length for Random Array: 451914
+Execution Time for Random Array: 334015682726 ns
+Memory Used for Random Array: 0 bytes
+
+Length of the array 1: 571669
+totalTime: 103068525438
+Length of the array 2: 717608
+totalTime: 266157229775
+Length of the array 3: 298229
+totalTime: 294145187191
+Length of the array 4: 667007
+totalTime: 434180212325
+Length of the array 5: 130182
+totalTime: 439558045702
+Average length for Reversed Array: 476939
+Execution Time for Reversed Array: 87911609140 ns
+Memory Used for Reversed Array: 0 bytes
+
+Length of the array 1: 288968
+totalTime: 64862749051
+Length of the array 2: 753366
+totalTime: 510988889369
+Length of the array 3: 304717
+totalTime: 582948399901
+Length of the array 4: 93791
+totalTime: 589490013099
+Length of the array 5: 658601
+totalTime: 939586849248
+Length of the array 6: 525764
+totalTime: 1156475768037
+Length of the array 7: 963414
+totalTime: 1905892062492
+Length of the array 8: 830718
+totalTime: 2465944213134
+Length of the array 9: 481279
+totalTime: 2649014799891
+Length of the array 10: 293328
+totalTime: 2717788733202
+Average length for Partially Sorted Array: 519394
+Execution Time for Partially Sorted Array: 271778873320 ns
+Memory Used for Partially Sorted Array: 0 bytes
+
+
+
+====== Tournament Sort ======
+
+Length of the array 1: 576048
+totalTime: 26898274364
+Length of the array 2: 403925
+totalTime: 40068963383
+Length of the array 3: 2851
+totalTime: 40069654757
+Length of the array 4: 397987
+totalTime: 50612849507
+Length of the array 5: 906033
+totalTime: 105859173902
+Length of the array 6: 265239
+totalTime: 110462539213
+Length of the array 7: 136818
+totalTime: 111695434975
+Length of the array 8: 317187
+totalTime: 118299023486
+Length of the array 9: 347019
+totalTime: 126208987700
+Length of the array 10: 776642
+totalTime: 166907677255
+Average length for Sorted Array: 412974
+Execution Time for Sorted Array: 16690767725 ns
+Memory Used for Sorted Array: 5780933 bytes
+
+Length of the array 1: 779238
+totalTime: 41320071510
+Length of the array 2: 321425
+totalTime: 48186922969
+Length of the array 3: 250946
+totalTime: 52349874310
+Length of the array 4: 463364
+totalTime: 66825420551
+Length of the array 5: 133998
+totalTime: 68018183649
+Length of the array 6: 600006
+totalTime: 92377892238
+Length of the array 7: 142446
+totalTime: 93729068916
+Length of the array 8: 891932
+totalTime: 147943158083
+Length of the array 9: 514908
+totalTime: 165835288011
+Length of the array 10: 83952
+totalTime: 166303940648
+Average length for Random Array: 418221
+Execution Time for Random Array: 16630394064 ns
+Memory Used for Random Array: 5557452 bytes
+
+Length of the array 1: 86810
+totalTime: 499877235
+Length of the array 2: 532130
+totalTime: 19631300669
+Length of the array 3: 106208
+totalTime: 20378298999
+Length of the array 4: 257708
+totalTime: 24766609727
+Length of the array 5: 682334
+totalTime: 56723839461
+Length of the array 6: 649801
+totalTime: 85216148031
+Length of the array 7: 422379
+totalTime: 97190968191
+Length of the array 8: 54878
+totalTime: 97389476799
+Length of the array 9: 316447
+totalTime: 103953908241
+Length of the array 10: 83636
+totalTime: 104419455403
+Average length for Reversed Array: 319233
+Execution Time for Reversed Array: 10441945540 ns
+Memory Used for Reversed Array: 4928307 bytes
+
+Length of the array 1: 88002
+totalTime: 508078019
+Length of the array 2: 673153
+totalTime: 31062374595
+Length of the array 3: 141766
+totalTime: 32403566638
+Length of the array 4: 502300
+totalTime: 49491985392
+Length of the array 5: 809358
+totalTime: 93829407595
+Length of the array 6: 436876
+totalTime: 106579668480
+Length of the array 7: 330738
+totalTime: 113809723560
+Length of the array 8: 597268
+totalTime: 137827869642
+Length of the array 9: 641334
+totalTime: 165590199430
+Length of the array 10: 648329
+totalTime: 193927424518
+Average length for Partially Sorted Array: 486912
+Execution Time for Partially Sorted Array: 19392742451 ns
+Memory Used for Partially Sorted Array: 6815744 bytes
+
+
+
+====== Introsort ======
+
+Length of the array 1: 316947
+totalTime: 36294318
+Length of the array 2: 560957
+totalTime: 75923400
+Length of the array 3: 218647
+totalTime: 90367572
+Length of the array 4: 293869
+totalTime: 109630350
+Length of the array 5: 618883
+totalTime: 155045506
+Length of the array 6: 922847
+totalTime: 221196107
+Length of the array 7: 291331
+totalTime: 240131928
+Length of the array 8: 931942
+totalTime: 310734765
+Length of the array 9: 889335
+totalTime: 383135898
+Length of the array 10: 257200
+totalTime: 399710043
+Average length for Sorted Array: 530195
+Execution Time for Sorted Array: 39971004 ns
+Memory Used for Sorted Array: 8390 bytes
+
+Length of the array 1: 610695
+totalTime: 46497654
+Length of the array 2: 655111
+totalTime: 86232688
+Length of the array 3: 964175
+totalTime: 145070016
+Length of the array 4: 574416
+totalTime: 179997158
+Length of the array 5: 278265
+totalTime: 195644503
+Length of the array 6: 881111
+totalTime: 251026263
+Length of the array 7: 29982
+totalTime: 252731154
+Length of the array 8: 410279
+totalTime: 278338890
+Length of the array 9: 871866
+totalTime: 338886845
+Length of the array 10: 471594
+totalTime: 369405605
+Average length for Random Array: 574749
+Execution Time for Random Array: 36940560 ns
+Memory Used for Random Array: 0 bytes
+
+Length of the array 1: 946454
+totalTime: 82093747
+Length of the array 2: 924004
+totalTime: 176977685
+Length of the array 3: 965857
+totalTime: 261865611
+Length of the array 4: 405900
+totalTime: 294898581
+Length of the array 5: 754773
+totalTime: 359104831
+Length of the array 6: 729153
+totalTime: 418547026
+Length of the array 7: 547889
+totalTime: 464794242
+Length of the array 8: 255683
+totalTime: 484781673
+Length of the array 9: 956200
+totalTime: 572565269
+Length of the array 10: 745251
+totalTime: 637552318
+Average length for Reversed Array: 723116
+Execution Time for Reversed Array: 63755231 ns
+Memory Used for Reversed Array: 0 bytes
+
+Length of the array 1: 414297
+totalTime: 21407397
+Length of the array 2: 719135
+totalTime: 64872065
+Length of the array 3: 234433
+totalTime: 75866527
+Length of the array 4: 689702
+totalTime: 114836602
+Length of the array 5: 461408
+totalTime: 141346053
+Length of the array 6: 674611
+totalTime: 184225854
+Length of the array 7: 584008
+totalTime: 215507391
+Length of the array 8: 252909
+totalTime: 227721728
+Length of the array 9: 683789
+totalTime: 268326986
+Length of the array 10: 614466
+totalTime: 299965215
+Average length for Partially Sorted Array: 532875
+Execution Time for Partially Sorted Array: 29996521 ns
+Memory Used for Partially Sorted Array: 0 bytes
